@@ -1,0 +1,51 @@
+.navbar {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 1;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 15px;
+      letter-spacing: 4px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.bg-1 { 
+  background-color: #1abc9c; /* Green */
+  color: #ffffff;
+}
+
+.margin {
+  margin-bottom: 10px;
+}
+
+.btn-group{
+  margin-bottom: 50px;
+}
+
+.btn-info{
+  font-size: 15px;
+}
+
+.jumbotron{
+  background-color: #1abc9c; /* Green */
+  color: #ffffff;
+}
+
+label{
+  color: #ffffff;
+  font-style: 20px;
+}
+
+body{
+  background-color: #1abc9c;
+}
